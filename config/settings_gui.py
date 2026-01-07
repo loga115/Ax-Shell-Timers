@@ -250,7 +250,7 @@ class HyprConfGUI(Window):
 
         # START NEW SECTION FOR DATETIME FORMAT
         datetime_format_header = Label(
-            markup="<b>Date & Time Format</b>", h_align="start"
+            markup="<b>Date &amp; Time Format</b>", h_align="start"
         )
         vbox.add(datetime_format_header)
 
