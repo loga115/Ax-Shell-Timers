@@ -174,6 +174,8 @@ keyboard: str = "&#xebd6;"
 terminal: str = "&#xebef;"
 timer_off: str = "&#xf146;"
 timer_on: str = "&#xf756;"
+plus: str = "&#xf067;"
+minus: str = "&#xf068;"
 spy: str = "&#xf227;"
 
 # Dice
